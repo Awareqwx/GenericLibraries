@@ -6,7 +6,7 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Input;
 
-//A basic sprite class that supports multiple animation sets, looping/non-looping animations, and multiple image layers with their own colors.
+//A basic sprite class that supports multiple animation sets, looping/non-looping animations, and multiple image layers with their own color washes.
 
 namespace Generic
 {
